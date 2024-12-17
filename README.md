@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @AnkitBot001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Ankit
+- 👀 I’m into Web development
+- 🌱 I’m currently learning MEAN Stack 
+- 📫 You can reach me out through my mail id sahni.ankit7070@gmial.com
+- 😄 He/Him
+- ⚡ Adventure freak, loves bike riding
 
 <!---
-AnkitBot001/AnkitBot001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ankit/AnkitBot001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
